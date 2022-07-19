@@ -1,0 +1,17 @@
+Assalamu'alaikum....
+Hallo sobat OSL jumpa lagi dengan Bang Rajo di channel youtube Onestring Lab di playlist Ngoding SPK alias Sistem Pendukung Keputusan.
+
+Di video kali ini bang Rajo akan membahas cara membuat program dari metode VIKOR yang merupakan kepanjangan dari VIšekriterijumsko KOmpromisno Rangiranje.
+
+File excel:
+https://github.com/Onestringlab/nspk/tree/main/vikor
+
+Playlist Ngoding Sistem Pendukung Keputusan
+https://www.youtube.com/watch?v=6ATMJDZDGEE&list=PLC2AOPvQbSwF-LqdJHQ5pbMzONwVwLJ4o
+
+Untuk yang mau nyawer 
+https://saweria.co/onestringlab
+
+Salam sehat, Salam OSL
+
+Wassalamu'alaikum
